@@ -4,10 +4,8 @@
 
 **Data Scientist · Machine Learning Engineer · Computer Vision**
 
-*Faculté des Sciences Ben M'Sick — Université Hassan II, Casablanca*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hind--amghar-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/hind-amghar-data-scientist)
-[![Email](https://img.shields.io/badge/Email-hind.amghar--etu@etu.univh2c.ma-EA4335?logo=gmail&logoColor=white)](mailto:hind.amghar-etu@etu.univh2c.ma)
+[![Email](https://img.shields.io/badge/Email-amghar.hind.pro@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:amghar.hind.pro@gmail.com)
 
 </div>
 
@@ -47,7 +45,7 @@ with a focus on turning models into deployable products.
 ## Featured projects
 
 ### [GravSense](https://github.com/amgharhind/gravsense) — Debris Detection & Volume Estimation
-> Open-vocabulary construction debris segmentation and 3D volume estimation from a single photo.
+> Open-vocabulary construction debris segmentation and volume estimation from a single photo.
 
 - **Grounded SAM** pipeline: GroundingDINO text prompt → NMS → SAM pixel masks
 - **Depth Anything V2** for automatic pile-height estimation (monocular metric depth)
